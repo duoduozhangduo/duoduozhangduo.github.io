@@ -23,4 +23,4 @@ $$
 
 - 科技公司的起源
 	- [2023.08.18小米：复仇者联盟](https://duoduozhangduo.github.io/2023.08.18%20%E5%B0%8F%E7%B1%B3%EF%BC%9A%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F.html)
-	- [2023.08.18小米：进军硬件1](https://duoduozhangduo.github,io/2023.08.18 小米：进军硬件.html)
+	- [2023.08.19小米：进军硬件1](https://duoduozhangduo.github.io/2023.08.19%20%E5%B0%8F%E7%B1%B3%EF%BC%9A%E8%BF%9B%E5%86%9B%E7%A1%AC%E4%BB%B61.html)
